@@ -1,7 +1,7 @@
 # hario-radio-tower-copc-data
 
 長崎県が公開している3次元点群データから針尾無線塔付近のデータをダウンロードし、  
-COPC（Cloud Optimized Point Cloud）形式に変換してみました。
+COPC（Cloud Optimized Point Cloud）形式に変換してみました。  
 こちらより、COPC Viewerで表示することができます。  
 
 ## データの出典
