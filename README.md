@@ -2,7 +2,10 @@
 
 長崎県が公開している3次元点群データから針尾無線塔付近のデータをダウンロードし、  
 COPC（Cloud Optimized Point Cloud）形式に変換してみました。  
-こちらより、COPC Viewerで表示することができます。  
+[こちら](https://viewer.copc.io/?copc=https://raokiey.github.io/hario-radio-tower-copc-data/Hario_Radio_Tower.copc.laz)より、COPC Viewerで表示することができます。  
+（ドラッグで移動、Ctrlを押しながらドラッグで回転できます）  
+
+https://github.com/raokiey/hario-radio-tower-copc-data/assets/56877037/f8f2637b-eeda-459d-ac58-736577d53f1c
 
 ## データの出典
 [長崎県「オープンナガサキ」(https://opennagasaki.nerc.or.jp/)](https://opennagasaki.nerc.or.jp/)
