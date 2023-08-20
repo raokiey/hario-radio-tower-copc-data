@@ -37,10 +37,10 @@ pdal merge 01JE7524.las 01JE7542.las hario_radio_tower.las
 
 4. メタデータの確認
 ```shell
-pdal info --metadeta hario_radio_tower_translated_clip.las
+pdal info --metadeta hario_radio_tower_translated.las
 ```
 
 5. COPCへの変換
 ```shell
-pdal translate -i hario_radio_tower_translated_clip.las -o Hario_Radio_Tower.copc.laz --writers.copc.forward=all
+pdal translate -i hario_radio_tower_translated.las -o Hario_Radio_Tower.copc.laz --writers.copc.forward=all
 ```
